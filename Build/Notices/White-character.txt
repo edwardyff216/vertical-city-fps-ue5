@@ -1,0 +1,2 @@
+White character model adapted in the original Godot project from pixiv's CC0 Sendagaya Shino base. Project-authored outfit, textures and mesh adjustments.
+Official source and license record: https://vroid.pixiv.help/hc/en-us/articles/360013482714-Sendagaya-Shino

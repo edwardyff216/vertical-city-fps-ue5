@@ -1,0 +1,5 @@
+Field weapon models
+FPS Guns and Shooting Range, 3DAssets.dev (CC0 1.0). Six meshes adapted, split and aligned for the game.
+https://3dassets.dev/packs/fps-weapon-set-and-firing-range
+Revolver Game Asset by Loafbrr (CC0). Model and material maps adapted for the hand cannon.
+https://opengameart.org/content/revolver-game-asset

@@ -1,0 +1,6 @@
+Fab library assets used in this cooked game build
+Slash Trail FX Elemental
+Absorption FX
+Sci-Fi Corridor - Low Poly Environment
+Combat Magic Animations by SoerGame (dual energy cast, retargeted for S-07 and the white character).
+See each library listing for the original creator and license terms.

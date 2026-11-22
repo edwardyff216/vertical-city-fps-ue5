@@ -1,0 +1,1072 @@
+{
+  "baseline": "e0090782758d6c32150fed581a4eef7586c628eff9bc6841e8482ded8d5cc272",
+  "editor_module": {
+    "file": "UnrealEditor-VerticalCityFPS-7400.dll",
+    "sha256": "a5d421083a8f573b80f3fb5b0119e037e6da331f16a477769cbecd0efc1646cc"
+  },
+  "inventory": {
+    "groups": {
+      ".vsconfig": [
+        1,
+        716,
+        0
+      ],
+      "Build": [
+        11,
+        425186,
+        570
+      ],
+      "Config": [
+        5,
+        18244,
+        265
+      ],
+      "Content/AbsorbtionFX": [
+        23,
+        33156259,
+        0
+      ],
+      "Content/ArrowTrail": [
+        27,
+        46807183,
+        0
+      ],
+      "Content/Characters": [
+        128,
+        131381051,
+        0
+      ],
+      "Content/FirstPerson": [
+        7,
+        430066,
+        0
+      ],
+      "Content/Free_Magic": [
+        26,
+        68143383,
+        0
+      ],
+      "Content/Input": [
+        9,
+        325917,
+        0
+      ],
+      "Content/Knife_light": [
+        17,
+        23293055,
+        0
+      ],
+      "Content/LevelPrototyping": [
+        29,
+        2859075,
+        0
+      ],
+      "Content/Low_Poly_Sci-Fi_Corridor": [
+        21,
+        3541862,
+        0
+      ],
+      "Content/NW_MuzzleFX": [
+        16,
+        4057595,
+        0
+      ],
+      "Content/SlashTrail_SoftTofu": [
+        24,
+        5218566,
+        0
+      ],
+      "Content/StylizedDomesShader": [
+        11,
+        16374575,
+        0
+      ],
+      "Content/Variant_Horror": [
+        15,
+        528164,
+        0
+      ],
+      "Content/Variant_Shooter": [
+        37,
+        3859073,
+        0
+      ],
+      "Content/Vefects": [
+        11,
+        1680815,
+        0
+      ],
+      "Content/VerticalCity": [
+        199,
+        66155631,
+        0
+      ],
+      "Content/VerticalCityArt": [
+        5,
+        1575507,
+        0
+      ],
+      "Content/Weapons": [
+        27,
+        14571297,
+        0
+      ],
+      "Content/__ExternalActors__": [
+        278,
+        1422373,
+        0
+      ],
+      "Content/__ExternalObjects__": [
+        12,
+        22086,
+        0
+      ],
+      "Docs": [
+        4,
+        25491,
+        218
+      ],
+      "Plugins": [
+        31,
+        591390,
+        2770
+      ],
+      "Source": [
+        13,
+        15146,
+        505
+      ],
+      "Source/VerticalCityFPS/Abilities": [
+        15,
+        159992,
+        3293
+      ],
+      "Source/VerticalCityFPS/Campaign": [
+        17,
+        126326,
+        2671
+      ],
+      "Source/VerticalCityFPS/Progression": [
+        19,
+        166788,
+        2800
+      ],
+      "Source/VerticalCityFPS/Variant_Horror": [
+        8,
+        15833,
+        569
+      ],
+      "Source/VerticalCityFPS/Variant_Shooter/AI": [
+        10,
+        47794,
+        1471
+      ],
+      "Source/VerticalCityFPS/Variant_Shooter": [
+        16,
+        127444,
+        3070
+      ],
+      "Source/VerticalCityFPS/Variant_Shooter/UI": [
+        6,
+        7635,
+        210
+      ],
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons": [
+        15,
+        78244,
+        2077
+      ],
+      "SourceArt": [
+        2,
+        7056,
+        0
+      ],
+      "VerticalCityFPS.uproject": [
+        1,
+        916,
+        55
+      ]
+    },
+    "largest": [
+      [
+        641,
+        "Source/VerticalCityFPS/Variant_Shooter/ShooterCharacter.cpp"
+      ],
+      [
+        593,
+        "Source/VerticalCityFPS/Variant_Shooter/S07RiflePresentation.cpp"
+      ],
+      [
+        575,
+        "Source/VerticalCityFPS/Abilities/CitySkillVisuals.cpp"
+      ],
+      [
+        560,
+        "Source/VerticalCityFPS/Campaign/CityCampaignMode.cpp"
+      ],
+      [
+        468,
+        "Source/VerticalCityFPS/Variant_Shooter/Weapons/CityKatana.cpp"
+      ],
+      [
+        467,
+        "Source/VerticalCityFPS/Abilities/CityAbilityFields.cpp"
+      ],
+      [
+        448,
+        "Source/VerticalCityFPS/Variant_Shooter/Weapons/ShooterWeapon.cpp"
+      ],
+      [
+        417,
+        "Source/VerticalCityFPS/Abilities/CityAbilityVerification.cpp"
+      ],
+      [
+        404,
+        "Source/VerticalCityFPS/Campaign/CityCampaignEnemy.cpp"
+      ],
+      [
+        396,
+        "Source/VerticalCityFPS/Campaign/CityRoomShell.cpp"
+      ],
+      [
+        389,
+        "Source/VerticalCityFPS/Progression/CityProgression.cpp"
+      ],
+      [
+        365,
+        "Source/VerticalCityFPS/Variant_Shooter/AI/ShooterStateTreeUtility.h"
+      ],
+      [
+        343,
+        "Source/VerticalCityFPS/Variant_Shooter/AI/ShooterStateTreeUtility.cpp"
+      ],
+      [
+        340,
+        "Source/VerticalCityFPS/Abilities/CityAbilitySmall.cpp"
+      ],
+      [
+        330,
+        "Source/VerticalCityFPS/Campaign/CityCampaignBot.cpp"
+      ],
+      [
+        325,
+        "Source/VerticalCityFPS/Variant_Shooter/CityArsenalProbe.cpp"
+      ]
+    ],
+    "include_edges": [
+      [
+        "Abilities",
+        "Variant_Shooter",
+        19
+      ],
+      [
+        "Campaign",
+        "Variant_Shooter",
+        19
+      ],
+      [
+        "Abilities",
+        "Campaign",
+        13
+      ],
+      [
+        "Progression",
+        "Variant_Shooter",
+        11
+      ],
+      [
+        "Variant_Shooter",
+        "Abilities",
+        9
+      ],
+      [
+        "Campaign",
+        "Abilities",
+        8
+      ],
+      [
+        "Variant_Shooter",
+        "Progression",
+        8
+      ],
+      [
+        "Progression",
+        "Campaign",
+        7
+      ],
+      [
+        "Variant_Shooter",
+        "Campaign",
+        5
+      ],
+      [
+        "Abilities",
+        "Progression",
+        3
+      ],
+      [
+        "Progression",
+        "Abilities",
+        3
+      ],
+      [
+        "Variant_Horror",
+        "TemplateBase",
+        3
+      ],
+      [
+        "Variant_Shooter",
+        "TemplateBase",
+        3
+      ],
+      [
+        "Campaign",
+        "Progression",
+        2
+      ]
+    ],
+    "git": {
+      "vertical-city-fps-gameplay-02": {
+        "branch": "gameplay/iteration-02",
+        "head": "42eb0cd8754f5ac81e2d1c54d809423140a71e7f",
+        "untracked": 3321,
+        "tracked": 264,
+        "history": [
+          "42eb0cd 2026-11-17 Improve combat HUD readability on bright warehouse surfaces",
+          "255de3a 2026-11-17 Improve weapon impact and warehouse combat tactics",
+          "0f314ad 2026-11-17 Add approved white warehouse materials and calibrated lighting",
+          "144aac1 2026-11-17 Build warehouse combat waves and kill-charged ultimates"
+        ],
+        "remote": ""
+      },
+      "vertical-city-fps-gameplay-02-github": {
+        "branch": "main",
+        "head": "0319f2fe00c40c2f6c52401f25e7d0eab50c8257",
+        "untracked": 0,
+        "tracked": 0,
+        "history": [
+          "0319f2f 2026-11-20 Publish route-specific boss encounters, physical gates and gameplay footage",
+          "94ffb76 2026-11-19 Publish gameplay progression, weapon workshop, and switchable skill tree pages",
+          "275ff07 2026-11-19 Publish gameplay-02 with character selection, animation assets and warehouse checks",
+          "42eb0cd 2026-11-17 Improve combat HUD readability on bright warehouse surfaces"
+        ],
+        "remote": "https://github.com/edwardyff216/vertical-city-fps-gameplay-02.git"
+      }
+    },
+    "rc2_zip": [
+      "VerticalCityFPS-Win64-Shipping-0.6.0-rc.2.zip",
+      481272499,
+      "1bc15743925dcc4f44afab289476a84fbd06fa01324e39ee9bd53c123fea45b3"
+    ]
+  },
+  "registry": {
+    "total": 918,
+    "classes": {
+      "NiagaraSystem": 20,
+      "NiagaraEmitter": 5,
+      "MaterialInstanceConstant": 79,
+      "Material": 75,
+      "StaticMesh": 81,
+      "Texture2D": 107,
+      "MaterialFunction": 5,
+      "AnimSequence": 117,
+      "AnimMontage": 2,
+      "AimOffsetBlendSpace": 2,
+      "AnimBlueprint": 6,
+      "BlendSpace": 1,
+      "SkeletalMesh": 9,
+      "Skeleton": 5,
+      "ControlRigBlueprint": 6,
+      "PhysicsAsset": 4,
+      "World": 10,
+      "Blueprint": 26,
+      "InputMappingContext": 4,
+      "InputAction": 7,
+      "WidgetBlueprint": 6,
+      "CurveLinearColorAtlas": 2,
+      "CurveLinearColor": 3,
+      "NiagaraEffectType": 1,
+      "NiagaraScript": 1,
+      "EnvQuery": 2,
+      "StateTree": 2,
+      "DataTable": 2,
+      "SoundWave": 23,
+      "LevelSequence": 6,
+      "IKRigDefinition": 4,
+      "IKRetargeter": 2,
+      "CurveVector": 2,
+      "CurveTable": 1,
+      "StaticMeshActor": 202,
+      "SkyAtmosphere": 3,
+      "PlayerStart": 11,
+      "WorldPartitionMiniMap": 3,
+      "SkyLight": 3,
+      "WorldDataLayers": 3,
+      "DirectionalLight": 3,
+      "ExponentialHeightFog": 3,
+      "VolumetricCloud": 2,
+      "Light_C": 17,
+      "PostProcessVolume": 2,
+      "BP_DoorFrame_C": 5,
+      "SpotLight": 1,
+      "BP_JumpPad_C": 5,
+      "BP_ShooterPickup_C": 5,
+      "RecastNavMesh": 1,
+      "BP_WobbleTarget_C": 5,
+      "NavMeshBoundsVolume": 1,
+      "BP_ShooterNPCSpawner_C": 2,
+      "WorldPartitionMiniMapVolume": 1,
+      "ActorFolder": 12
+    },
+    "selected": [
+      [
+        "DataTable",
+        "/Game/VerticalCity/Data/DT_Arsenal"
+      ],
+      [
+        "LevelSequence",
+        "/Game/VerticalCity/KatanaReview/DeepMotionTrial/LS_Quinn_DeepMotion"
+      ],
+      [
+        "LevelSequence",
+        "/Game/VerticalCity/KatanaReview/LS_KatanaTripleCut"
+      ],
+      [
+        "LevelSequence",
+        "/Game/VerticalCity/KatanaReview/NativeIKTrial/LS_Quinn_NativeIK"
+      ],
+      [
+        "LevelSequence",
+        "/Game/VerticalCity/KatanaReview/QuinnTrial/LS_QuinnFitting"
+      ],
+      [
+        "LevelSequence",
+        "/Game/VerticalCity/KatanaReview/QuinnTrial/LS_S07_QuinnTripleCut"
+      ],
+      [
+        "LevelSequence",
+        "/Game/VerticalCity/KatanaReview/S07TripleCut/LS_S07_TripleCut"
+      ],
+      [
+        "NiagaraSystem",
+        "/Game/VerticalCityArt/PrismShardTrail/NS_PrismShardTrail"
+      ],
+      [
+        "World",
+        "/Game/VerticalCity/KatanaReview/DeepMotionTrial/L_Quinn_DeepMotion"
+      ],
+      [
+        "World",
+        "/Game/VerticalCity/KatanaReview/L_KatanaTripleCut"
+      ],
+      [
+        "World",
+        "/Game/VerticalCity/KatanaReview/NativeIKTrial/L_Quinn_NativeIK"
+      ],
+      [
+        "World",
+        "/Game/VerticalCity/KatanaReview/QuinnTrial/L_QuinnFitting"
+      ],
+      [
+        "World",
+        "/Game/VerticalCity/KatanaReview/QuinnTrial/L_S07_QuinnTripleCut"
+      ],
+      [
+        "World",
+        "/Game/VerticalCity/KatanaReview/S07TripleCut/L_S07_TripleCut"
+      ],
+      [
+        "World",
+        "/Game/VerticalCity/Maps/L_Campaign"
+      ]
+    ]
+  },
+  "blueprint_and_table": {
+    "rows": [
+      "rifle",
+      "shotgun",
+      "sword",
+      "hand_cannon",
+      "scout",
+      "pulse",
+      "smg",
+      "sidearm"
+    ],
+    "direct": {
+      "/Game/Variant_Shooter/Blueprints/BP_ShooterCharacter": [
+        "/Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed",
+        "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple",
+        "/Game/FirstPerson/Anims/ABP_FP_Copy",
+        "/Game/Input/Actions/IA_Jump",
+        "/Game/Input/Actions/IA_Look",
+        "/Game/Input/Actions/IA_MouseLook",
+        "/Game/Input/Actions/IA_Move",
+        "/Game/Input/Touch/BPI_TouchInterface",
+        "/Game/Variant_Shooter/Input/Actions/IA_Shoot",
+        "/Game/Variant_Shooter/Input/Actions/IA_SwapWeapon",
+        "/Game/Variant_Shooter/Input/BPI_Touch_Shooter"
+      ],
+      "/Game/Variant_Shooter/Blueprints/BP_ShooterPlayerController": [
+        "/Game/Variant_Shooter/Blueprints/BP_ShooterCharacter",
+        "/Game/Input/IMC_Default",
+        "/Game/Input/IMC_MouseLook",
+        "/Game/Variant_Shooter/Input/IMC_Weapons",
+        "/Game/Variant_Shooter/Input/UI_TouchInterface_Shooter",
+        "/Game/Variant_Shooter/UI/UI_ShooterBulletCounter"
+      ],
+      "/Game/VerticalCity/Maps/L_Campaign": [],
+      "/Game/VerticalCity/Data/DT_Arsenal": []
+    }
+  },
+  "source_literal_check": {
+    "unique": 55,
+    "unresolved": {
+      "VerticalCity/Weapons/FieldModels/SM_": [
+        "Source\\VerticalCityFPS\\Variant_Shooter\\CityArsenalProbe.cpp:98",
+        "Source\\VerticalCityFPS\\Variant_Shooter\\S07RiflePresentation.cpp:537"
+      ]
+    }
+  },
+  "rc2_delta": {
+    "common_equal": 802,
+    "changed": [
+      "Build/Notices/Fab-assets.txt",
+      "Build/Tests/verify_campaign.py",
+      "Config/DefaultEditor.ini",
+      "Config/DefaultGame.ini",
+      "Content/Low_Poly_Sci-Fi_Corridor/Materials/Emissive/M_Emission.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Materials/M_Base.uasset",
+      "Content/VerticalCity/Abilities/S07Casts.bin",
+      "Content/VerticalCity/S07/A_S07_KatanaRecover.uasset",
+      "Source/VerticalCityFPS/Abilities/CityAbilities.h",
+      "Source/VerticalCityFPS/Abilities/CityAbilityFields.cpp",
+      "Source/VerticalCityFPS/Abilities/CityAbilitySmall.cpp",
+      "Source/VerticalCityFPS/Abilities/CityAbilityUltimate.cpp",
+      "Source/VerticalCityFPS/Abilities/CityCastView.cpp",
+      "Source/VerticalCityFPS/Abilities/CitySkillCapture.cpp",
+      "Source/VerticalCityFPS/Abilities/CitySkillVisuals.cpp",
+      "Source/VerticalCityFPS/Abilities/CitySkillVisuals.h",
+      "Source/VerticalCityFPS/Campaign/CityCampaignBot.cpp",
+      "Source/VerticalCityFPS/Campaign/CityCampaignEnemy.cpp",
+      "Source/VerticalCityFPS/Campaign/CityCampaignEnemy.h",
+      "Source/VerticalCityFPS/Campaign/CityCampaignMode.cpp",
+      "Source/VerticalCityFPS/Campaign/CityCampaignMode.h",
+      "Source/VerticalCityFPS/Campaign/CityRoomShell.cpp",
+      "Source/VerticalCityFPS/Campaign/CityRoomShell.h",
+      "Source/VerticalCityFPS/Progression/CityAffixCombatTest.cpp",
+      "Source/VerticalCityFPS/Progression/CityProgression.cpp",
+      "Source/VerticalCityFPS/Progression/CityProgression.h",
+      "Source/VerticalCityFPS/Variant_Shooter/AI/ShooterNPC.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/CityArsenalProbe.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/CityLocomotion.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/CityLocomotion.h",
+      "Source/VerticalCityFPS/Variant_Shooter/S07RiflePresentation.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/S07RiflePresentation.h",
+      "Source/VerticalCityFPS/Variant_Shooter/ShooterCharacter.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/ShooterCharacter.h",
+      "Source/VerticalCityFPS/Variant_Shooter/ShooterPlayerController.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/ShooterPlayerController.h",
+      "Source/VerticalCityFPS/Variant_Shooter/UI/CityHitMarker.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/UI/CityHitMarker.h",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/CityKatana.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/CityKatana.h",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/KatanaDashView.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/KatanaDashView.h",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/ShooterWeapon.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/ShooterWeapon.h",
+      "VerticalCityFPS.uproject"
+    ],
+    "only_rc2": [
+      "Build/Tests/__pycache__/verify_campaign.cpython-312.pyc"
+    ],
+    "only_audit": [
+      ".vsconfig",
+      "Build/Notices/weapon-models.txt",
+      "Build/Windows/FileOpenOrder/CookerOpenOrder.log",
+      "Build/Windows/FileOpenOrder/EditorOpenOrder.log",
+      "Content/ArrowTrail/FX/NS_ArrowTrail_Fire.uasset",
+      "Content/ArrowTrail/FX/NS_ArrowTrail_Fire_02.uasset",
+      "Content/ArrowTrail/FX/NS_ArrowTrail_Holy.uasset",
+      "Content/ArrowTrail/FX/NS_ArrowTrail_Ice.uasset",
+      "Content/ArrowTrail/FX/NS_ArrowTrail_Magic.uasset",
+      "Content/ArrowTrail/FX/NS_ArrowTrail_Magic_2.uasset",
+      "Content/ArrowTrail/Material/MF_Function/MF_Texcoord.uasset",
+      "Content/ArrowTrail/Material/MI_Instance/MI_ArrowRibbon_01.uasset",
+      "Content/ArrowTrail/Material/MI_Instance/MI_ArrowRibbon_02.uasset",
+      "Content/ArrowTrail/Material/MI_Instance/MI_HolyRibbon.uasset",
+      "Content/ArrowTrail/Material/MI_Instance/MI_IceParticle.uasset",
+      "Content/ArrowTrail/Material/MI_Instance/MI_IceParticle1.uasset",
+      "Content/ArrowTrail/Material/MI_Instance/MI_IceRibbon.uasset",
+      "Content/ArrowTrail/Material/MI_Instance/MI_Smoke.uasset",
+      "Content/ArrowTrail/Material/M_Master/M_SimpleParticle.uasset",
+      "Content/ArrowTrail/Material/M_Master/M_SimpleTrail.uasset",
+      "Content/ArrowTrail/Texture/T_Aura.uasset",
+      "Content/ArrowTrail/Texture/T_FireBall.uasset",
+      "Content/ArrowTrail/Texture/T_FlowLoop.uasset",
+      "Content/ArrowTrail/Texture/T_Ice.uasset",
+      "Content/ArrowTrail/Texture/T_Noise_01.uasset",
+      "Content/ArrowTrail/Texture/T_Noise_03.uasset",
+      "Content/ArrowTrail/Texture/T_Noise_05.uasset",
+      "Content/ArrowTrail/Texture/T_Normal_Noise.uasset",
+      "Content/ArrowTrail/Texture/T_Rocks.uasset",
+      "Content/ArrowTrail/Texture/T_Trail.uasset",
+      "Content/ArrowTrail/Texture/T_White.uasset",
+      "Content/Free_Magic/Materials/MI_Free_Magic_Spiral2.uasset",
+      "Content/Free_Magic/Materials/MI_Free_Magic_Stone2.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Flash.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Lightning.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Plane.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Slash.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Smoke.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Sparks.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Spiral.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Stone1.uasset",
+      "Content/Free_Magic/Materials/M_Free_Magic_Trace.uasset",
+      "Content/Free_Magic/Mesh/SM_Free_Magic_Plane1.uasset",
+      "Content/Free_Magic/Mesh/SM_Free_Magic_Plane2.uasset",
+      "Content/Free_Magic/Mesh/SM_Free_Magic_Slash1.uasset",
+      "Content/Free_Magic/Mesh/SM_Free_Magic_Spiral1.uasset",
+      "Content/Free_Magic/Mesh/SM_Free_Magic_Stone1.uasset",
+      "Content/Free_Magic/Textures/T_Free_Magic_Flash.uasset",
+      "Content/Free_Magic/Textures/T_Free_Magic_Lightning.uasset",
+      "Content/Free_Magic/Textures/T_Free_Magic_Noise1.uasset",
+      "Content/Free_Magic/Textures/T_Free_Magic_Noise1_normal.uasset",
+      "Content/Free_Magic/Textures/T_Free_Magic_Noise2.uasset",
+      "Content/Free_Magic/Textures/T_Free_Magic_Noise2_normal.uasset",
+      "Content/Free_Magic/Textures/T_Free_Magic_Smoke.uasset",
+      "Content/Free_Magic/VFX_Niagara/NS_Free_Magic_Area1.uasset",
+      "Content/Free_Magic/VFX_Niagara/NS_Free_Magic_Hit1.uasset",
+      "Content/Free_Magic/VFX_Niagara/NS_Free_Magic_Slash2.uasset",
+      "Content/Knife_light/Curve/CT_color.uasset",
+      "Content/Knife_light/Curve/CT_flare_color.uasset",
+      "Content/Knife_light/Materials/Master/M_excessive.uasset",
+      "Content/Knife_light/Materials/Master/M_flare.uasset",
+      "Content/Knife_light/Materials/Master/M_height_light.uasset",
+      "Content/Knife_light/Materials/Master/M_residue.uasset",
+      "Content/Knife_light/Materials/Slash02/MI_height_lighting02.uasset",
+      "Content/Knife_light/Materials/Slash02/MI_mid02.uasset",
+      "Content/Knife_light/Materials/Slash02/MI_out02.uasset",
+      "Content/Knife_light/Mesh/SM_slash.uasset",
+      "Content/Knife_light/Texture/T_Hard_edges.uasset",
+      "Content/Knife_light/Texture/T_flare.uasset",
+      "Content/Knife_light/Texture/T_flow.uasset",
+      "Content/Knife_light/Texture/T_mid.uasset",
+      "Content/Knife_light/Texture/T_noise.uasset",
+      "Content/Knife_light/Texture/daoguang.uasset",
+      "Content/Knife_light/VFX/NE_attack02.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Materials/MI_Atlas_E_01.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Materials/MI_Glass.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Materials/M_Glass_Window.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Constructions/SM_Ceiling_01_A.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Constructions/SM_Door_01_A.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Constructions/SM_Door_01_B.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Constructions/SM_Floor_01_A.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Constructions/SM_Stair_01.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Constructions/SM_Wall_01.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Props/SM_Barrel.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Props/SM_Crate_02_A.uasset",
+      "Content/Low_Poly_Sci-Fi_Corridor/Models/Props/SM_Lamp_01_A.uasset",
+      "Content/NW_MuzzleFX/Materials/M_Muzzle01.uasset",
+      "Content/NW_MuzzleFX/Materials/M_Muzzle02.uasset",
+      "Content/NW_MuzzleFX/Materials/M_Muzzle_04_Material.uasset",
+      "Content/NW_MuzzleFX/Materials/M_SpriteMaterial_Edited.uasset",
+      "Content/NW_MuzzleFX/Materials/Marterial_Instance/MI_Muzzle_02.uasset",
+      "Content/NW_MuzzleFX/Meshes/Static_Mesh/SM_muzzle_01.uasset",
+      "Content/NW_MuzzleFX/Meshes/Static_Mesh/SM_muzzle_02.uasset",
+      "Content/NW_MuzzleFX/Meshes/Static_Mesh/SM_particlesMesh00.uasset",
+      "Content/NW_MuzzleFX/Meshes/Static_Mesh/SM_particlesMesh01.uasset",
+      "Content/NW_MuzzleFX/Particle_FX/FXS_NS_MuzzleFlash_00.uasset",
+      "Content/NW_MuzzleFX/Particle_FX/FXS_NS_MuzzleFlash_03.uasset",
+      "Content/NW_MuzzleFX/Textures/T_BlackBall_v2.uasset",
+      "Content/NW_MuzzleFX/Textures/T_Muzzle_01.uasset",
+      "Content/NW_MuzzleFX/Textures/T_Muzzle_11_v3.uasset",
+      "Content/NW_MuzzleFX/Textures/T_New_Muzzle_01_v2.uasset",
+      "Content/NW_MuzzleFX/Textures/T_New_Muzzle_03_v2.uasset",
+      "Content/SlashTrail_SoftTofu/Material/M_GlitchVFX.uasset",
+      "Content/SlashTrail_SoftTofu/Niagara/Cyberpunk/NS_Hit_CyberPunk_Once.uasset",
+      "Content/SlashTrail_SoftTofu/Resource/Texture/T_Scifi_Tiled_10.uasset",
+      "Content/SlashTrail_SoftTofu/Resource/Texture/T_Scifi_Tiled_24.uasset",
+      "Content/StylizedDomesShader/Materials/StylizedDomeShader/MF/MF_3V_DTAA.uasset",
+      "Content/StylizedDomesShader/Materials/StylizedDomeShader/MF/MF_DTAA.uasset",
+      "Content/StylizedDomesShader/Materials/StylizedDomeShader/MI/MI_StylizedDome_03.uasset",
+      "Content/StylizedDomesShader/Materials/StylizedDomeShader/M_StylizedDome.uasset",
+      "Content/StylizedDomesShader/Textures/Galaxy/T_GalaxyV2_12.uasset",
+      "Content/StylizedDomesShader/Textures/Greyscale/T_Noise_02.uasset",
+      "Content/StylizedDomesShader/Textures/Greyscale/T_Noise_04.uasset",
+      "Content/StylizedDomesShader/Textures/Normal/T_Water_01_N.uasset",
+      "Content/StylizedDomesShader/Textures/Normal/T_Water_02_N.uasset",
+      "Content/StylizedDomesShader/Textures/Pattern/T_Pattern_08.uasset",
+      "Content/StylizedDomesShader/Textures/T_White.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Materials/M_VFX_Shockwave_01.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Meshes/SM_VFX_In_Out_Cyl_01.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Textures/T_VFX_Easy_Shockwaves_Linear_Mask_01.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Textures/T_VFX_Easy_Shockwaves_Linear_Mask_02.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Textures/T_VFX_Easy_Shockwaves_Noise_01.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Textures/T_VFX_Easy_Shockwaves_Noise_01_Normal.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Textures/T_VFX_Easy_Shockwaves_Noise_03.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/Shared/Textures/T_VFX_Linear_Gradient_DT.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/VFX/Shockwaves/Materials/MI_VFX_Shockwave_01.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/VFX/Shockwaves/Materials/MI_VFX_Shockwave_01_Additive.uasset",
+      "Content/Vefects/Easy_Shockwaves_VFX/VFX/Shockwaves/Particles/Color_Variation/VFX_Shockwave_01_Orange_1s.uasset",
+      "Content/VerticalCity/Animations/Kimodo/LS_RunHardStop.uasset",
+      "Content/VerticalCity/KatanaReview/DeepMotionTrial/A_Quinn_DeepMotion_TripleCut.uasset",
+      "Content/VerticalCity/KatanaReview/DeepMotionTrial/LS_Quinn_DeepMotion.uasset",
+      "Content/VerticalCity/KatanaReview/DeepMotionTrial/L_Quinn_DeepMotion.umap",
+      "Content/VerticalCity/KatanaReview/KimodoTrial/A_SOMA_PoseGuide.uasset",
+      "Content/VerticalCity/KatanaReview/KimodoTrial/IK_S07.uasset",
+      "Content/VerticalCity/KatanaReview/KimodoTrial/IK_Soma.uasset",
+      "Content/VerticalCity/KatanaReview/KimodoTrial/RTG_S07_To_Soma.uasset",
+      "Content/VerticalCity/KatanaReview/LS_KatanaTripleCut.uasset",
+      "Content/VerticalCity/KatanaReview/L_KatanaTripleCut.umap",
+      "Content/VerticalCity/KatanaReview/M_ReviewTiles.uasset",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/A_Quinn_NativeIK_TripleCut.uasset",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/A_Quinn_NativeIK_TripleCut_Grip.uasset",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/A_Quinn_NativeIK_TripleCut_Silhouette.uasset",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/IK_Quinn.uasset",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/IK_ReferenceS07.uasset",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/LS_Quinn_NativeIK.uasset",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/L_Quinn_NativeIK.umap",
+      "Content/VerticalCity/KatanaReview/NativeIKTrial/RTG_ReferenceToQuinn.uasset",
+      "Content/VerticalCity/KatanaReview/QuinnTrial/A_Quinn_KatanaStudy.uasset",
+      "Content/VerticalCity/KatanaReview/QuinnTrial/A_Quinn_S07_KatanaTripleCut.uasset",
+      "Content/VerticalCity/KatanaReview/QuinnTrial/LS_QuinnFitting.uasset",
+      "Content/VerticalCity/KatanaReview/QuinnTrial/LS_S07_QuinnTripleCut.uasset",
+      "Content/VerticalCity/KatanaReview/QuinnTrial/L_QuinnFitting.umap",
+      "Content/VerticalCity/KatanaReview/QuinnTrial/L_S07_QuinnTripleCut.umap",
+      "Content/VerticalCity/KatanaReview/QuinnTrial/SK_S07_QuinnTrial.uasset",
+      "Content/VerticalCity/KatanaReview/S07TripleCut/A_S07_TripleCut.uasset",
+      "Content/VerticalCity/KatanaReview/S07TripleCut/LS_S07_TripleCut.uasset",
+      "Content/VerticalCity/KatanaReview/S07TripleCut/L_S07_TripleCut.umap",
+      "Content/VerticalCity/S07/A_S07_KatanaTripleCut.uasset",
+      "Content/VerticalCity/S07/Combat/A_S07_TripleCut.uasset",
+      "Content/VerticalCity/S07/Combat/CV_Katana_FP_Edge.uasset",
+      "Content/VerticalCity/S07/Combat/CV_Katana_FP_Grip.uasset",
+      "Content/VerticalCity/S07/Combat/SK_S07_Mannequin.uasset",
+      "Content/VerticalCity/VFX/M_BreakerFloor.uasset",
+      "Content/VerticalCity/VFX/M_KatanaCrescent.uasset",
+      "Content/VerticalCity/VFX/M_KatanaPrismHit.uasset",
+      "Content/VerticalCity/VFX/M_KatanaPrismWave.uasset",
+      "Content/VerticalCity/VFX/M_KatanaTripleEdge.uasset",
+      "Content/VerticalCity/VFX/M_SupportShell.uasset",
+      "Content/VerticalCity/VFX/T_KatanaPrismSeam.uasset",
+      "Content/VerticalCity/Weapons/CT_FirstPersonHands.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/M_AcePBR.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/M_Finish_002002003000095.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/M_Finish_004005005000072.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/M_Finish_011012012090048.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/M_Finish_036037039085042.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/M_Finish_072073075100028.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/M_Finish_080080080000060.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_hand_cannon.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_hand_cannon_Action.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_hand_cannon_Mag.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_pulse.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_pulse_Mag.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_rifle.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_rifle_Mag.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_scout.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_scout_Mag.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_shotgun.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_shotgun_Action.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_sidearm.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_sidearm_Action.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_sidearm_Mag.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_smg.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/SM_smg_Mag.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/T_Ace_AO.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/T_Ace_Albedo.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/T_Ace_Metalness.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/T_Ace_Normal.uasset",
+      "Content/VerticalCity/Weapons/FieldModels/T_Ace_Roughness.uasset",
+      "Content/VerticalCity/Weapons/Katana/SM_KatanaSaya.uasset",
+      "Content/VerticalCity/Weapons/Katana/SM_S07_KatanaHand.uasset",
+      "Content/VerticalCity/Weapons/Katana/SM_White_KatanaHand.uasset",
+      "Content/VerticalCityArt/PrismShardTrail/M_PrismAfterglow.uasset",
+      "Content/VerticalCityArt/PrismShardTrail/M_PrismEdgeChips.uasset",
+      "Content/VerticalCityArt/PrismShardTrail/M_PrismGlow.uasset",
+      "Content/VerticalCityArt/PrismShardTrail/M_PrismShard.uasset",
+      "Content/VerticalCityArt/PrismShardTrail/NS_PrismShardTrail.uasset",
+      "Docs/Migration/mechanism-parity-rc2.md",
+      "Docs/Migration/phase-6-verification.md",
+      "Docs/Migration/phase-rc2-verification.md",
+      "Docs/Migration/vfx-inventory-2026-11-21.md",
+      "Plugins/VisualStudioTools/Docs/Marketplace_Readme.md",
+      "Plugins/VisualStudioTools/Docs/Troubleshooting.md",
+      "Plugins/VisualStudioTools/Docs/Visual Studio Integration Tool Documentation.pdf",
+      "Plugins/VisualStudioTools/Docs/images/configuration_page.png",
+      "Plugins/VisualStudioTools/Docs/images/ide_support_ue.png",
+      "Plugins/VisualStudioTools/Docs/images/test_explorer.png",
+      "Plugins/VisualStudioTools/Docs/images/test_options.png",
+      "Plugins/VisualStudioTools/LICENSE",
+      "Plugins/VisualStudioTools/Source/.editorconfig",
+      "Plugins/VisualStudioTools/Source/VisualStudioBlueprintDebuggerHelper/Private/VisualStudioBlueprintDebuggerHelperModule.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioBlueprintDebuggerHelper/Private/VisualStudioBlueprintDebuggerHelperModule.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioBlueprintDebuggerHelper/VisualStudioBlueprintDebuggerHelper.Build.cs",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/BlueprintAssetHelper.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/BlueprintAssetHelpers.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/BlueprintReferencesCommandlet.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/BlueprintReferencesCommandlet.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/FSmartBSTR.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VSServerCommandlet.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VSServerCommandlet.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VSTestAdapterCommandlet.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VSTestAdapterCommandlet.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VisualStudioTools.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VisualStudioToolsBlueprintBreakpointExtension.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VisualStudioToolsBlueprintBreakpointExtension.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VisualStudioToolsCommandlet.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VisualStudioToolsCommandlet.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VisualStudioToolsCommandletBase.cpp",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Private/VisualStudioToolsCommandletBase.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/Public/VisualStudioTools.h",
+      "Plugins/VisualStudioTools/Source/VisualStudioTools/VisualStudioTools.Build.cs",
+      "Plugins/VisualStudioTools/VisualStudioTools.uplugin",
+      "Source/VerticalCityFPS/Campaign/CityEnemyCueCapture.cpp",
+      "Source/VerticalCityFPS/Campaign/CityEnemyCues.cpp",
+      "Source/VerticalCityFPS/Campaign/CitySwordCapture.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/CityAftercutDamage.h",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/CityKatanaArcWindow.cpp",
+      "Source/VerticalCityFPS/Variant_Shooter/Weapons/CityKatanaArcWindow.h",
+      "SourceArt/Katana/CV_Katana_FP_Edge.csv",
+      "SourceArt/Katana/CV_Katana_FP_Grip.csv"
+    ]
+  },
+  "runtime": [
+    {
+      "name": "default-route",
+      "rc": "timeout",
+      "markers": [],
+      "end": "[2026.11.21-10.20.24:600][  0]LogPython:   Downloading numpy-1.26.4-cp311-cp311-win_amd64.whl (15.8 MB)"
+    },
+    {
+      "name": "controlled-route",
+      "rc": 0,
+      "markers": [
+        "[2026.11.21-10.24.17:527][545]LogTemp: Display: CITY_ROUTE_TEST PASS route=UDU debugDamage=1 depth=4 reason=physical extraction"
+      ],
+      "end": "[2026.11.21-10.24.18:866][546]Log file closed, 11/21/26 23:24:18"
+    },
+    {
+      "name": "affix",
+      "rc": 0,
+      "markers": [
+        "[2026.11.21-10.25.44:508][176]LogAutomationController: Display: Test Completed. Result={Success} Name={AllInstances} Path={VerticalCity.Weapons.AffixCombat.AllInstances}",
+        "[2026.11.21-10.25.44:510][176]LogAutomationController: CITY_AFTERCUT_SWAP marked=1 deferred=1 damage=82.300 expected=82.300",
+        "[2026.11.21-10.25.44:510][176]LogAutomationController: CITY_AFFIX_TOTAL numeric=50/50 effects=60/60"
+      ],
+      "end": "[2026.11.21-10.25.44:545][177]LogCore: Engine exit requested (reason: Win RequestExit)"
+    },
+    {
+      "name": "ability",
+      "rc": 0,
+      "markers": [
+        "[2026.11.21-10.26.35:066][ 64]LogTemp: Display: CITY_FOE_VERIFY checks=10 failures=0",
+        "[2026.11.21-10.26.35:073][ 64]LogTemp: Display: CITY_SKILL_VERIFY PASS casts=32 failures=0"
+      ],
+      "end": "[2026.11.21-10.26.36:511][ 65]Log file closed, 11/21/26 23:26:36"
+    }
+  ],
+  "routes": [
+    {
+      "route": "UDU",
+      "debug": true,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=UDU debugDamage=1 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\Game 仓库，一些点子\\tmp\\city-health-audit-20261121\\controlled-route\\run.log",
+      "boss": "relay",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "c2e01ce30f4c2338af4d96cc9ccbd269e31136da8bca24c03daba33d5ad09295"
+    },
+    {
+      "route": "DDD",
+      "debug": false,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=DDD debugDamage=0 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\real-route.log",
+      "boss": "breaker",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "73ec5a286f36a56224884bba73f1b03c568851bac71608f9269bd1b1558da033"
+    },
+    {
+      "route": "UUU",
+      "debug": false,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=UUU debugDamage=0 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\routes\\UUU-combat\\run.log",
+      "boss": "spire",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "1aa5ae0179d047da00d00efab2c8bd7a6bb051ba390c7a9f5a5afda36798ef2e"
+    },
+    {
+      "route": "UUD",
+      "debug": true,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=UUD debugDamage=1 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\routes\\UUD-fast\\run.log",
+      "boss": "relay",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "033cdff8d347228d431ed8801754b4dbea2e4e3e88d2655fcd126273e3422dad"
+    },
+    {
+      "route": "UDD",
+      "debug": true,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=UDD debugDamage=1 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\routes\\UDD-fast\\run.log",
+      "boss": "relay",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "f18eb27ec8901c653895379e64b453f8bd982257a04b9d047dc73301c09cebe5"
+    },
+    {
+      "route": "DUU",
+      "debug": true,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=DUU debugDamage=1 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\routes\\DUU-fast\\run.log",
+      "boss": "relay",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "c3d503216ad259dca52525a040998b48f22d8b10072f0b53e3dbe925ccd0efd2"
+    },
+    {
+      "route": "DUD",
+      "debug": true,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=DUD debugDamage=1 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\routes\\DUD-fast\\run.log",
+      "boss": "relay",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "e02400d364be17c0d66214179d66678849488036e75ede110291a51885cbc98f"
+    },
+    {
+      "route": "DDU",
+      "debug": true,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=DDU debugDamage=1 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\routes\\DDU-fast\\run.log",
+      "boss": "relay",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "abd4ef188e2b4f114b11f63f2f141cbb5a3c826dc684d6de39c9a7dae9567b37"
+    },
+    {
+      "route": "UDU",
+      "debug": false,
+      "returncode": 0,
+      "pass_marker": "CITY_ROUTE_TEST PASS route=UDU debugDamage=0 depth=4 reason=physical extraction",
+      "offers": 12,
+      "log": "D:\\UEAuditCity-pga2akdw\\routes\\UDU-combat\\run.log",
+      "boss": "relay",
+      "checks": {
+        "marker": true,
+        "rooms": true,
+        "gate_slots": true,
+        "seed_match": true,
+        "victory": true,
+        "reward_pair": true
+      },
+      "log_sha256": "dc98a88d428e0d088380c28f7f8b2d7cf85560f51d94fc0155a01ac0ed51e511"
+    }
+  ],
+  "build": "- **编译、烘焙、封包通过。** 从审计指纹对应源码生成 Win64 Shipping 可执行文件。UAT 在补齐现有编辑器回执后执行 BuildCookRun（cook、stage、pak、iostore、package、archive），Cook 汇总 0 errors、0 warnings，UAT 返回 0，BuildCookRun 1301.01 秒。Cook 使用已复制的开发机编辑器游戏模块，玩家 Shipping 可执行文件是本轮新编。未做全新引擎源码或全新编辑器目标编译。\n- **新包正常渲染启动通过。** 直接运行归档内 VerticalCityFPS-Win64-Shipping.exe，1280×800、D3D12、RTX 3060 Ti、i5-13400，使用独立新档和独立 UserDir。CityBench 取得 300 帧均为阶段 0（Preparation），正式 JSON 档为 active=false、默认步枪及霰弹枪，进程返回 0。该次从启动到退出用时 65.9 秒，包含启动、采样及退出，不能作为进准备页的耗时。未在这次 Shipping 冒烟中用真人输入完成一局，前文九局路线来自受控编辑器副本。可执行文件 186,027,520 字节，SHA-256 为 3ad2781a5c59b34405b829540caf099bd848c2ebf1bd7b7a1a55b69c999f0763。\n- **成品内容核对。** 对实际 VerticalCityFPS-Windows.utoc 用 UnrealPak -ListContainer 导出 CSV。KatanaReview 下有 28 个不同文件的容器记录，压缩数据项合计 1,147,828 字节。含 L_KatanaTripleCut、L_Quinn_DeepMotion、L_Quinn_NativeIK、L_QuinnFitting、L_S07_QuinnTripleCut、L_S07_TripleCut 六张 .umap，以及对照序列 LS_S07_TripleCut；另见 Kimodo/LS_RunHardStop.uasset。没有按引用去重或做移除前后的包体对照，不能把所有文件直接判为可删。项目主 .ucas 为 413,726,672 字节。\n- **复查位置。** [本轮 Shipping 归档](</D:/UEAuditCity-pga2akdw/package/Windows>)、[IoStore 文件清单](</D:/UEAuditCity-pga2akdw/cooked-files.csv>)、[新包帧记录](</D:/UEAuditCity-pga2akdw/shipping-smoke/render.csv>)、[重启恢复结果](</D:/UEAuditCity-pga2akdw/restart-proof/6438ca1facb04a478cd0a9f0052a363c/process-results.json>)。本轮收尾时对原工程的 1096 个作者输入重算并与起始哈希匹配。",
+  "local_tests": {
+    "real-route": "73ec5a286f36a56224884bba73f1b03c568851bac71608f9269bd1b1558da033",
+    "progression": "533cbd53f27b0bfd5c227aa2af7dee465d71898377c1d35c1b2eb05b058aa7c0",
+    "registry": "1f3f943ed5f61f6b0698119261d98fbac030bdb3ea93d20e1aec13a77d30d912",
+    "data-assets": "9a921f7981c7f627021c8a6ccd5d102b21a7541863153b5460e15d486cc60e11"
+  },
+  "process_restart": {
+    "executable": "E:\\UE_5.9\\Engine\\Binaries\\Win64\\UnrealEditor-Cmd.exe",
+    "binarySha256": "AF34D636B6A0CBCB91D0F826B56D28C51B3B6E9EBE6ED18546DF52BC40FEE511",
+    "sourceSha256": "5936A1EBC031A9EABC26B1E5D7160FC6D27D2EA0DA6A8F081D00684D792BE173",
+    "interruptedPid": 20116,
+    "restorePid": 35084,
+    "cleanPid": 5968,
+    "cleanExit": 0,
+    "profile": "D:\\UEAuditCity-pga2akdw\\restart-proof\\6438ca1facb04a478cd0a9f0052a363c\\profile.json"
+  },
+  "shipping_smoke": {
+    "exe": "D:\\UEAuditCity-pga2akdw\\package\\Windows\\VerticalCityFPS\\Binaries\\Win64\\VerticalCityFPS-Win64-Shipping.exe",
+    "sha256": "3ad2781a5c59b34405b829540caf099bd848c2ebf1bd7b7a1a55b69c999f0763",
+    "returncode": 0,
+    "elapsed": 65.9,
+    "frames": 300,
+    "phases": [
+      "0"
+    ],
+    "hardware": "gpu=NVIDIA GeForce RTX 3060 Ti\ncpu=13th Gen Intel(R) Core(TM) i5-13400\nrhi=D3D12\n",
+    "fresh_profile": true,
+    "active": false,
+    "equip": [
+      "rifle",
+      "shotgun"
+    ]
+  },
+  "log_sha256": {
+    "ascii-shipping-console.log": "6863c72f1acd030b921e7142499719c22e88ed648ba86140a8bf6ba8f8dc51f2",
+    "uat-retry.log": "b3cb1a50ffbfc1c4cef41c862e57927ac99c0ecfa02985607b16861a1c8e1822",
+    "cooked-files.csv": "981a871ca32696beb14dc3ca3e9e84391ae029585be345b2aef78851d725e1a5"
+  }
+}
